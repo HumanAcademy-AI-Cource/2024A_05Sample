@@ -2,7 +2,6 @@
 
 # ライブラリのインポート
 import cv2
-import numpy as np
 
 
 # 対象の画像を読み込む
